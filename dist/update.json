@@ -1,0 +1,4 @@
+{
+  "payload": "{\n  \"versionCode\": 1,\n  \"versionName\": \"1.0.0\",\n  \"apkUrl\": \"https://raw.githubusercontent.com/kimzhoua/cmdtool-publish/main/dist/app-1.0.0.apk\",\n  \"rawApkUrl\": \"https://raw.githubusercontent.com/kimzhoua/cmdtool-publish/main/dist/app-1.0.0.apk\",\n  \"manifestUrl\": \"https://raw.githubusercontent.com/kimzhoua/cmdtool-publish/main/dist/update.json\",\n  \"sha256\": \"ac5a9de78d99051ed6a9bd55d84c58b2db39042b790a859664d034ca02ce9d21\",\n  \"notes\": \"1. 首个版本：6 家厂商 × 3 类设备的配置命令生成\\n2. 19 个功能模块按厂商/设备类型自动过滤\\n3. 生成结果支持复制、分享\"\n}",
+  "sig": "QqN/1cVDAdxDyT+q6TxsAyAB1vGnLJVBMW1CRf2C4B+80UZLyGwYNiqCxa1YlMFeDNrim+sI2gb2Xf955i9W+Xuy7rL0U+MxXusGlYaW8TpAicov+QVyzelGvz8vs1Eog6OHsIrVTD81BO/BQa4cV1zr4ZH9f6yVamD3j5wK2TIUBEinCL4QL1C1NR4BEWV4iObf8W7GXY6ueiUI0YrNGuohrxFiOvpJAQQAGiO+wRGt7Hk3zAgfgOUzhXpQA0IDkDG3VdeKj5W8wVDPdkuHOoz/VfsZcf9NZjzdy+V9XIxn5wRNkFNlHw7ezqohfYEWu1BuQNYxRvZQ7ZrJwAd0DQ=="
+}
